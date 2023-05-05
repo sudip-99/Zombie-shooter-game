@@ -1,0 +1,40 @@
+#canvas{
+  border: 3px solid black;
+  background-color: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  text
+  font-family: 'Bangers', cursive;
+}
+
+#btn1{
+	position:absolute; 
+	margin-left:47%;   
+	right: 0;
+	width:100px;
+	height:50px;
+	bottom:180px;
+	color :white;
+	font-size: 25px;
+	border-radius:50%;
+	background-color: black;
+	font-family: 'Bangers', cursive;
+
+}
+
+#btn2{
+	position:absolute; 
+	margin-right:47%;   
+	left :0;
+	width:100px;
+	height:50px;
+	bottom:180px;
+	color :white;
+	border-radius:50%;
+	font-size: 25px;
+  background-color: black;
+  font-family: 'Bangers', cursive;
+
+}
